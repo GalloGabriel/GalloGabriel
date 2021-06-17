@@ -1,7 +1,7 @@
 <h1>Hello Devs! 👋 What's up?</h1>
 <h3>I'm Gabriel. A passionate frontend developer from Brazil!</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalloGabriel)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalloGabriel&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning **ReactJs (and I'm loving it!)**
