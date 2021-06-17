@@ -1,15 +1,15 @@
-<h1 align="center">Hello Devs! 👋, What's up? I'm Gabriel Gallo</h1>
-<h3 align="center">A passionate frontend developer from Brazil!</h3>
+<h1 align="center">Hello Devs! 👋 What's up?</h1>
+<h3 align="center">I'm Gabriel. A passionate frontend developer from Brazil!</h3>
 
 - 🌱 I’m currently learning **ReactJs (and I'm loving it!)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GalloGabriel?tab=repositories](https://github.com/GalloGabriel?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/GalloGabriel?tab=repositories](https://github.com/GalloGabriel?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about: **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **gabriel.gallo2242@gmail.com**
 
-- ⚡ Fun fact **I'm a Lo-Fi lover. lofi hip hop radio - beats to relax/study to**
+- ⚡ Fun fact about me: **I'm a Lo-Fi lover. lofi hip hop radio - beats to relax/study to**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
