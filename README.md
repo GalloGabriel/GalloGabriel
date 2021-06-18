@@ -21,7 +21,7 @@
 **Hello everyone! 👋** <br/>
 My name is Gabriel Gallo, I'm 25 years old and I'm from São Paulo, Brazil! :brazil: <br/>
 My passion for codes started 3 years ago when I started writing my first HTML tags. Since then, my desire to learn and improve only increased and I decided to focus my studies on programming. <br/>
-Currently, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.<br/><br/>
+**Currently**, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.<br/><br/>
 
 🌱 **What I’m currently learning?** <br/>
 I'm focused on learning and also improving my ReactJs skills (and I'm loving it! I :blue_heart: React haha).<br/>
@@ -37,11 +37,11 @@ My professional goal life is to become a Senior frontend developer. But always b
 ⚡ **Quickly facts about me**<br/>
 :small_blue_diamond: I'm a Lo-Fi lover. :notes: I'm almost aways writing my codes while I'm listening lofi hip hop radio - beats to relax/study to.<br/>
 :small_blue_diamond: I'm a video-game lover. :video_game:<br/>
-:small_blue_diamond: I'm a beer lover! :beers: <br/><br/>
+:small_blue_diamond: I'm a beer lover! :beers: <br/>
 
 .<br/>
 .<br/>
-.<br/><br/>
+.<br/>
 
 
 - 👨‍💻 All of my projects are available at: [https://github.com/GalloGabriel?tab=repositories](https://github.com/GalloGabriel?tab=repositories)<br/><br/>
@@ -56,5 +56,6 @@ My professional goal life is to become a Senior frontend developer. But always b
 </p><br/><br/>
 
 That's all folks!<br/>
-I would love to share my knowledges and my projects with you! :coffee: <Let's keep gooing!> :rocket:
+I would love to share my knowledges and my projects with you!<br/>
+<h3 align="left"> :coffee: <Let's keep gooing!> :rocket: </h3>
 
