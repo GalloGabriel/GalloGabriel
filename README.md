@@ -57,5 +57,5 @@ My professional goal life is to become a Senior frontend developer. But always b
 
 That's all folks!<br/>
 I would love to share my knowledges and my projects with you!<br/>
-<h3 align="left"> :coffee: &lt; Let's keep gooing! &rt;  :rocket: </h3>
+<h3 align="left"> :coffee: &lt; Let's keep gooing! &gt;  :rocket: </h3>
 
