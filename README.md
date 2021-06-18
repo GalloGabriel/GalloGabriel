@@ -18,43 +18,43 @@
 
 <h1>About me</h1>
 
-**Hello everyone! 👋**
-My name is Gabriel Gallo, I'm 25 years old and I'm from São Paulo, Brazil! :brazil:
-My passion for codes started 3 years ago when I started writing my first HTML tags. Since then, my desire to learn and improve only increased and I decided to focus my studies on programming.
-Currently, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.
+**Hello everyone! 👋** <br/>
+My name is Gabriel Gallo, I'm 25 years old and I'm from São Paulo, Brazil! :brazil: <br/>
+My passion for codes started 3 years ago when I started writing my first HTML tags. Since then, my desire to learn and improve only increased and I decided to focus my studies on programming. <br/>
+Currently, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.<br/><br/>
 
-🌱 **What I’m currently learning?** 
-I'm focused on learning and also improving my ReactJs skills (and I'm loving it! I :blue_heart: React haha).
-I'm also learning a little bit of TypeScript and improving my Sass skills while I'm working in a personal project. Stay Tuned! haha :crossed_fingers:
+🌱 **What I’m currently learning?** <br/>
+I'm focused on learning and also improving my ReactJs skills (and I'm loving it! I :blue_heart: React haha).<br/>
+I'm also learning a little bit of TypeScript and improving my Sass skills while I'm working in a personal project. Stay Tuned! haha :crossed_fingers: <br/><br/>
 
-:dart: **What is coming next?**
-I'm always thinking about how I can improve and what tools people are using most. For the near future, my learning goals are: TypeScript, nodeJs, ReactNative, MongoDB and Python.
-I'm also got a personal goal to make a web and mobile movies project that I hoe to realize in the next few months.
+:dart: **What is coming next?**<br/>
+I'm always thinking about how I can improve and what tools people are using most. For the near future, my learning goals are: TypeScript, nodeJs, ReactNative, MongoDB and Python.<br/>
+I'm also got a personal goal to make a web and mobile movies project that I hoe to realize in the next few months.<br/><br/>
 
-:rocket: **Where do I want to reach?**
-My professional goal life is to become a Senior frontend developer. But always being able to learn new things and sharing my experiences with all the community!:smiley:
+:rocket: **Where do I want to reach?**<br/>
+My professional goal life is to become a Senior frontend developer. But always being able to learn new things and sharing my experiences with all the community!:smiley:<br/><br/>
 
-⚡ **Quickly facts about me**
-:small_blue_diamond: I'm a Lo-Fi lover. :notes: I'm almost aways writing my codes while I'm listening lofi hip hop radio - beats to relax/study to.
-:small_blue_diamond: I'm a video-game lover. :video_game:
-:small_blue_diamond: I'm a beer lover! :beers: 
+⚡ **Quickly facts about me**<br/>
+:small_blue_diamond: I'm a Lo-Fi lover. :notes: I'm almost aways writing my codes while I'm listening lofi hip hop radio - beats to relax/study to.<br/>
+:small_blue_diamond: I'm a video-game lover. :video_game:<br/>
+:small_blue_diamond: I'm a beer lover! :beers: <br/><br/>
 
-.
-.
-.
+.<br/>
+.<br/>
+.<br/><br/>
 
 
-- 👨‍💻 All of my projects are available at: [https://github.com/GalloGabriel?tab=repositories](https://github.com/GalloGabriel?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/GalloGabriel?tab=repositories](https://github.com/GalloGabriel?tab=repositories)<br/><br/>
 
-- 📫 How to reach me: **gabriel.gallo2242@gmail.com**
+- 📫 How to reach me: **gabriel.gallo2242@gmail.com**<br/><br/>
 
- :octocat:
+ :octocat:<br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-gallo-740284161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-gallo-740284161" height="30" width="40" /></a>
-</p>
+</p><br/><br/>
 
-That's all folks!
+That's all folks!<br/>
 I would love to share my knowledges and my projects with you! :coffee: <Let's keep gooing!> :rocket:
 
