@@ -18,6 +18,8 @@
 
 <h1>About me</h1>
 
+:beers:	
+
 - 🌱 I’m currently learning **ReactJs (and I'm loving it!)**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/GalloGabriel?tab=repositories](https://github.com/GalloGabriel?tab=repositories)
