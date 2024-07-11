@@ -23,17 +23,16 @@
 ![Snake animation](https://github.com/GalloGabriel/GalloGabriel/blob/output/github-contribution-grid-snake.gif)
 
 **Hello everyone! 👋** <br/>
-My name is Gabriel Gallo, I'm 27 years old and I'm from São Paulo, Brazil! :brazil: <br/>
+My name is Gabriel Gallo, I'm 28 years old and I'm from São Paulo, Brazil! :brazil: <br/>
 My passion for codes started in 2018 when I started writing my first HTML tags. Since then, my desire to learn and improve only increased and I decided to focus my studies on programming. <br/>
 **Currently**, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.<br/><br/>
 
 🌱 **What I’m currently learning?** <br/>
-I'm focused on learning and also improving my ReactJs skills (and I'm loving it! I :blue_heart: React haha).<br/>
-I'm also learning a little bit of TypeScript and improving my Sass skills while I'm working in a personal project. Stay Tuned! haha :crossed_fingers: <br/><br/>
+I'm focused on learning and also improving my ReactJs skills.<br/>
+I'm also learning a little bit of TypeScript and improving my Sass skills.<br/><br/>
 
 :dart: **What is coming next?**<br/>
-I'm always thinking about how I can improve and what tools people are using most. For the near future, my learning goals are: TypeScript, nodeJs, ReactNative, MongoDB and Python.<br/>
-I'm also got a personal goal to make a web and mobile movies project that I hoe to realize in the next few months.<br/><br/>
+I'm always thinking about how I can improve and what tools people are using most. For the near future, my learning goals are: TypeScript, nodeJs, ReactNative, MongoDB and Angular.<br/><br/>
 
 :rocket: **Where do I want to reach?**<br/>
 My professional goal life is to become a Senior frontend developer. But always being able to learn new things and sharing my experiences with all the community!:smiley:<br/><br/>
