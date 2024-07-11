@@ -21,7 +21,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/GalloGabriel?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
 
 ![Snake animation](https://github.com/GalloGabriel/GalloGabriel/blob/output/github-contribution-grid-snake.gif)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?udername=GalloGabriel&repo=GalloGabriel&theme=react)](https://github.com/GalloGabriel/GalloGabriel)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GalloGabriel&repo=GalloGabriel&theme=react)](https://github.com/GalloGabriel/GalloGabriel)
 
 **Hello everyone! 👋** <br/>
 My name is Gabriel Gallo, I'm 28 years old and I'm from São Paulo, Brazil! :brazil: <br/>
