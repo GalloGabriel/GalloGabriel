@@ -30,11 +30,11 @@ My passion for codes started in 2018 when I started writing my first HTML tags. 
 **Currently**, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.<br/><br/>
 
 🌱 **What I’m currently learning?** <br/>
-I'm focused on learning and also improving my ReactJs skills.<br/>
-I'm also learning a little bit of TypeScript and improving my Sass skills.<br/><br/>
+I'm focused on learning Angular and TypeScript at the moment.<br/>
+I'm also improving my Sass and React skills.<br/><br/>
 
 :dart: **What is coming next?**<br/>
-I'm always thinking about how I can improve and what tools people are using most. For the near future, my learning goals are: TypeScript, nodeJs, ReactNative, MongoDB and Angular.<br/><br/>
+I'm always thinking about how I can improve and what tools people are using most. For the near future, my learning goals are: Improving my unit tests skills, back-end.<br/><br/>
 
 :rocket: **Where do I want to reach?**<br/>
 My professional goal life is to become a Senior frontend developer. But always being able to learn new things and sharing my experiences with all the community!:smiley:<br/><br/>
