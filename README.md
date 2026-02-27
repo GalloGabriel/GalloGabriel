@@ -25,7 +25,7 @@
 ![Snake animation](https://github.com/GalloGabriel/GalloGabriel/blob/output/github-contribution-grid-snake.gif)
 
 **Hello everyone! 👋** <br/>
-My name is Gabriel Gallo, I'm 28 years old and I'm from São Paulo, Brazil! :brazil: <br/>
+My name is Gabriel Gallo, I'm 29 years old and I'm from São Paulo, Brazil! :brazil: <br/>
 My passion for codes started in 2018 when I started writing my first HTML tags. Since then, my desire to learn and improve only increased and I decided to focus my studies on programming. <br/>
 **Currently**, I work as a Web Developer at Univesp, a virtual distance learning university. There we use HTML, CSS, Sass, JavaScript and Jquery on a daily basis. In addition, I've participated in side projects using React and Cypress.<br/><br/>
 
